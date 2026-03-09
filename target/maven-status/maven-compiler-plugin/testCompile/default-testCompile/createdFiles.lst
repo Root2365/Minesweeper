@@ -1,0 +1,4 @@
+minesweeper\BoardTest.class
+minesweeper\GameConfigTest.class
+minesweeper\CoordinateParserTest.class
+minesweeper\ConsoleMinesweeperE2ETest.class

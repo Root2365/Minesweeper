@@ -1,0 +1,12 @@
+minesweeper\MoveType.class
+minesweeper\Board.class
+minesweeper\Coordinate.class
+minesweeper\MinePlacer.class
+minesweeper\RandomMinePlacer.class
+minesweeper\ConsoleMinesweeper.class
+minesweeper\BoardPrinter.class
+minesweeper\Cell.class
+minesweeper\CoordinateParser.class
+minesweeper\MinesweeperApp.class
+minesweeper\GameConfig.class
+minesweeper\MoveResult.class
